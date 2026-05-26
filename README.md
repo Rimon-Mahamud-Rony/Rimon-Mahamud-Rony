@@ -99,13 +99,7 @@ Currently exploring Artificial Intelligence, Machine Learning, scalable system a
 
 ---
 
-<h2>🏆 GitHub Trophies</h2>
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Rimon-Mahamud-Rony&theme=tokyonight&row=1&column=6" />
-
-</p>
 
 ---
 
