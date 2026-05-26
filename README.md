@@ -74,15 +74,7 @@ Currently exploring Artificial Intelligence, Machine Learning, scalable system a
 
 ---
 
-<h2>📊 GitHub Stats</h2>
 
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rimon-Mahamud-Rony&show_icons=true&theme=tokyonight&count_private=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rimon-Mahamud-Rony&layout=compact&theme=tokyonight" />
-
-</p>
 
 ---
 
@@ -94,15 +86,6 @@ Currently exploring Artificial Intelligence, Machine Learning, scalable system a
 
 </p>
 
----
-
-<h2>📅 GitHub Contributions in 2026</h2>
-
-<p align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=Rimon-Mahamud-Rony&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
-
-</p>
 
 ---
 
