@@ -78,9 +78,9 @@ Currently exploring Artificial Intelligence, Machine Learning, scalable system a
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rimon-Mahamud-Rony&show_icons=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rimon-Mahamud-Rony&layout=compact" />
 
 </p>
 
@@ -90,7 +90,7 @@ Currently exploring Artificial Intelligence, Machine Learning, scalable system a
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=yourusername" />
+<img src="https://streak-stats.demolab.com?user=Rimon-Mahamud-Rony" />
 
 </p>
 
@@ -100,14 +100,26 @@ Currently exploring Artificial Intelligence, Machine Learning, scalable system a
 
 <p align="left">
 
-<a href="https://github.com/yourusername" target="_blank">
+<a href="https://github.com/Rimon-Mahamud-Rony" target="_blank">
 GitHub
 </a>
 
 <br>
 
-<a href="https://linkedin.com/in/yourusername" target="_blank">
+<a href="https://www.linkedin.com/" target="_blank">
 LinkedIn
+</a>
+
+</p>
+
+---
+
+<h2>🌐 Portfolio</h2>
+
+<p>
+
+<a href="https://github.com/Rimon-Mahamud-Rony" target="_blank">
+Visit My GitHub Profile
 </a>
 
 </p>
