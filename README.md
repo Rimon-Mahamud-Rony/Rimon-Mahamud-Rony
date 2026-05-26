@@ -1,4 +1,14 @@
-<img align="center" height="200" src="logo.png" > 
+<p align="center">
+  <img 
+    src="logo.png" 
+    height="120" 
+    style="
+      border-radius: 50%;
+      border: 3px solid #cbd5e1; /* slate-300 */
+      padding: 4px;
+    "
+  />
+</p>
 <!-- ========================= -->
 <!--      GitHub README        -->
 <!-- ========================= -->
