@@ -90,11 +90,7 @@ Currently exploring Artificial Intelligence, Machine Learning, scalable system a
 
 <h2>🔥 GitHub Streak</h2>
 
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Rimon-Mahamud-Rony&theme=tokyonight" />
-
-</p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Rimon-Mahamud-Rony&theme=tokyonight&short_numbers=true" alt="GitHub Streak" /></a>
 
 
 ---
