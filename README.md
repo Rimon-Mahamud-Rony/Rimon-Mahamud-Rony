@@ -4,7 +4,7 @@
     height="120" 
     style="
       border-radius: 50%;
-      border: 3px solid #cbd5e1; /* slate-300 */
+      border: 3px solid white; /* slate-300 */
       padding: 4px;
     "
   />
